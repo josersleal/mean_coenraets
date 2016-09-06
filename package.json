@@ -1,0 +1,20 @@
+{
+  "name": "nodecellar",
+  "version": "1.0.0",
+  "description": "test from http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-mongodb/",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.9",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
